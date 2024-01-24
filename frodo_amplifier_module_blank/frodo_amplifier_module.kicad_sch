@@ -550,6 +550,7 @@
     )
   )
 
+
   (junction (at 99.06 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 01ee66fb-4f69-4277-be8c-c222c42fdeaa)
   )
@@ -1878,7 +1879,7 @@
     (property "Value" "10u" (at 86.36 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 83.5152 55.88 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 83.5152 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 52.07 0)
@@ -2178,7 +2179,7 @@
     (property "Value" "120R" (at 65.9892 39.37 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder" (at 66.04 44.958 90)
+    (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (at 66.04 44.958 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 66.04 43.18 0)

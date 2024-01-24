@@ -1,4 +1,4 @@
-21673962425558247
+21677398398465823
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -521,6 +521,13 @@ Button_Switch_Keyboard
 SW_Matias_ISOEnter
 Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
 Matias ALPS keyswitch ISO enter
+0
+2
+2
+Button_Switch_SMD
+430133050816
+430133050816-1
+Switch
 0
 2
 2
@@ -6543,6 +6550,13 @@ M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012dow
 three-pin M8
 0
 5
+4
+Connector_Amphenol
+FLTS22WR00
+FLTS22WR00-1
+Connector
+0
+4
 4
 Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
