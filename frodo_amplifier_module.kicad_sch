@@ -550,7 +550,6 @@
     )
   )
 
-
   (junction (at 99.06 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 01ee66fb-4f69-4277-be8c-c222c42fdeaa)
   )
@@ -1559,8 +1558,8 @@
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid 9576a0c3-4013-4cbb-bb9a-95149b0254b0)
   )
-  (text "10k Resistors as input protection \n-> (avoids output voltage switching for higher Input signals)\n\n47k Resistors is needed to avoid floating of the inputs which\nis crittical for high resistant inputs\n\nUse temperature stable resistor for RG1 as it will diectly\nimpact the temperature stability of the whole system (gain)"
-    (at 139.7 109.22 0)
+  (text "47k Resistors is needed to avoid floating of the inputs which\nis crittical for high resistant inputs\n\nUse temperature stable resistor for RG1 as it will diectly\nimpact the temperature stability of the whole system (gain)"
+    (at 139.7 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e87a32a-3666-4c1f-937c-d0dd801e5c5a)
   )
