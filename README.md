@@ -23,7 +23,7 @@ Connects the amplifier module with the Sensor with the following pins:
 * s+  -> positive signal
 * s-  -> negative signal
 
-## Use guideline:
+## User guideline:
 The Gain resistor (RG1) must be chosen in a way that the expected maximum amplified voltage is lower than 4.85V (5V - 0.15V) and the expected minimum amplified voltage is higher than 0.1V if a smaller (or negative) output voltage is expected the solder jumper for the reference voltage needs to be connected to 3 to set an output shift.
 Only if the connected sensor is expected to output a signal which exclusively results in an output signal that is in the above given values, can the reference solder jumper be set to 1.
 
