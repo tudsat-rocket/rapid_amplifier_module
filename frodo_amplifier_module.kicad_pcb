@@ -1258,7 +1258,7 @@
   (gr_text "s+" (at 78 47.6) (layer "B.SilkS") (tstamp 49cf3ff8-e136-4ef9-b203-fe71e06efb68)
     (effects (font (size 1 1) (thickness 0.153)) (justify left bottom mirror))
   )
-  (gr_text "<io       sens>" (at 73.3 51.5) (layer "B.SilkS") (tstamp 6a018c80-d7e4-4c9d-9dde-8702507a1cc5)
+  (gr_text "<io       sens>" (at 73.2 51.5) (layer "B.SilkS") (tstamp 6a018c80-d7e4-4c9d-9dde-8702507a1cc5)
     (effects (font (size 1 1) (thickness 0.15)) (justify right bottom mirror))
   )
   (gr_text "o+" (at 88.7 49.2) (layer "B.SilkS") (tstamp 7595df22-cd83-4700-b6fa-0bcd9415c462)
