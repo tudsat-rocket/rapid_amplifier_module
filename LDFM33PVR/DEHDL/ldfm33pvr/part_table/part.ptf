@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LDFM33PVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "LDFM33PVR" (!) = "", "SON65P200X200X100-7N-D", "Small Outline No-lead", "511-LDFM33PVR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDFM33PVR?qs=qzCNEk%252BRr%252Bbt5RX7rWJkeQ%3D%3D", "LDO Voltage Regulators 500 mA very low drop voltage regulator", "https://componentsearchengine.com/Datasheets/1/LDFM33PVR.pdf", "1 mm"
+END_PART
+
+END.

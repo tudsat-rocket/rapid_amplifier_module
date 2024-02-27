@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDFM33PVR
+D LDO Voltage Regulators 500 mA very low drop voltage regulator
+K
+F https://componentsearchengine.com/Datasheets/1/LDFM33PVR.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=LDFM33PVR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.1
+Released=2020-01-20 11:10:07
+Downloaded=2024-02-27 18:12:39
+3D=Y

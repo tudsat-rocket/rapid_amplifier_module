@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP3221A5T-I_OT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-23-05:58:27)
+    (mountForm default
+        (footprintRef "SOT95P280X145-5N")
+        (spec "System")
+    )
+)

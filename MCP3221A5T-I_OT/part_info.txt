@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP3221A5T-I/OT
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=3.1
+Released=2017-01-11 17:13:05
+Downloaded=2024-02-27 19:08:48
+3D=Y

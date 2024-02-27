@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3221A5T-I_OT
+D A/D Converter
+K
+F http://componentsearchengine.com/Datasheets/1/MCP3221A5T-I_OT.pdf
+$ENDCMP
+#
+#End Doc Library

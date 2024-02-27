@@ -1,0 +1,16 @@
+.MCP3221A5T-I_OT :1 ;A/D Converter
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="VSS" 3="AIN" 4="SDA" 5="SCL"
+*MXP 5
+*DFN MCP3221A5T-I_OT
+~!Mouser Part Number (579-MCP3221A5T-I/OT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP3221A5T-I-OT?qs=WWgnj3qycfluQW8d2QZbkA%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP3221A5T-I/OT)
+~!Link Datasheet (http://componentsearchengine.com/Datasheets/1/MCP3221A5T-I_OT.pdf)
+~!Height (1.45mm)
+~!3D_Model (MCP3221A5T-I_OT)
+MCP3221A5T-I_OT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
